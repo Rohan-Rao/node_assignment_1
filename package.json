@@ -1,0 +1,15 @@
+{
+  "name": "firstAssignment_REST",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "author": "Rohan Rao",
+  "license": "ISC"
+}
